@@ -5,7 +5,7 @@
 [![Github Issues](https://img.shields.io/github/issues/vthiery/conan-nlopt.svg)](https://github.com/vthiery/conan-nlopt/issues)
 [![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/vthiery/conan-nlopt.svg)](http://isitmaintained.com/project/vthiery/conan-nlopt "Average time to resolve an issue")
 
-[JFrog Bintray](https://bintray.com/vthiery/conan-packages/nlopt%3Avthiery) package for [nlopt](https://github.com/stevengj/nlopt)
+[Conan](https://bintray.com/vthiery/conan-packages/nlopt%3Avthiery) package for [nlopt](https://github.com/stevengj/nlopt)
 
 ## Usage
 
