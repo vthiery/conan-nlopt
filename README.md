@@ -7,6 +7,10 @@
 
 [Conan](https://bintray.com/vthiery/conan-packages/nlopt%3Avthiery) package for [nlopt](https://github.com/stevengj/nlopt)
 
+## IMPORTANT
+
+**Since [conan-io/conan-center-index](https://github.com/conan-io/conan-center-index) maintains a recipe packaging [stevengj/nlopt](https://github.com/stevengj/nlopt) library, this recipe will not be maintained anymore. If possible, please use the package [nlopt](https://conan.io/center/nlopt/2.7.0/) instead.**
+
 ## Usage
 
 Add `nlopt/2.4.2@vthiery/stable` in the list of requirements of your conanfile. See [how to use a conanfile.py](http://docs.conan.io/en/latest/mastering/conanfile_py.html) for more information.
